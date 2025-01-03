@@ -1,4 +1,4 @@
-# RID1234_Desafio01
+# RID98235_Desafio01
 
  # Landing Page - Projeto de Arquitetura
 
@@ -20,7 +20,7 @@ Este projeto é uma **landing page** desenvolvida como parte de um desafio propo
 
 1. Clone este repositório:
    ```bash
-   git clone <(https://github.com/kyoleht/RID1234_Desafio01.git)>
+   git clone <(https://github.com/kyoleht/RID98235_Desafio01.git)>
 
 2. Abra o arquivo index.html no navegador de sua preferência.
 
@@ -37,5 +37,7 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 
 Email: rafaelferreiradasilva1145@gmail.com
 LinkedIn: https://www.linkedin.com/in/rafael-ferreira-9b900324a/
+
+Link da planilha: https://docs.google.com/spreadsheets/d/1_Oiezgx5wAH84ecK8QE1D4Oah79pIAV-Y8SglJ8LnEk/edit?gid=0#gid=0
 
 Desenvolvido com 💻 por Rafa.
