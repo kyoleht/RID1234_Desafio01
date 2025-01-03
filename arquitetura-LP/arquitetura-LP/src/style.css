@@ -1,0 +1,103 @@
+* {
+    margin: 0px;
+    font-family: "Inter", sans-serif;
+}
+
+header .header-title {
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 170px;
+    font-size: 25px;
+}
+
+header .header-title p {
+    margin-top: 20px;
+    font-size: 17px;
+}
+
+.infos {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin-top: 60px;
+}
+
+.infos h3 {
+    font-size: 35px;
+}
+
+.infos .info-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.infos .info-1, .info-2, .info-3 {
+    margin: 0px 150px 0px 150px;
+}
+
+section .xp {
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    margin-top: 150px;
+}
+
+section .xp-text {
+    margin-left: 250px;
+    margin-top: 200px;
+}
+
+section .xp-text h1 {
+    font-size: 35px;
+    font-weight: 500;
+}
+
+section .xp-text p {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.form  {
+    background-color: #303030;
+    color: #FFFFFF;
+    padding: 100px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.form h1 {
+    font-size: 30px;
+    margin-bottom: 60px;
+    font-weight: 400;
+}
+
+.form input {
+    width: 350px;
+    height: 50px;
+    background-color: #FFFFFF;
+    margin: 20px;
+    border: 0px;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+
+.form button {
+    background-color: #C07212;
+    color: #FFFFFF;
+    height: 60px;
+    width: 200px;
+    border: 0px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    font-weight: 500;
+    cursor: pointer;
+    font-size: 21px;
+    margin-top: 30px;
+}
+
+.form button:hover {
+    background-color: #e0871b;
+    color: #ffffff;
+}
