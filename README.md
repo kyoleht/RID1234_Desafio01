@@ -38,6 +38,7 @@ Se tiver alguma dúvida ou sugestão, entre em contato:
 Email: rafaelferreiradasilva1145@gmail.com
 LinkedIn: https://www.linkedin.com/in/rafael-ferreira-9b900324a/
 
+Link Vercel: https://rid-98235-desafio01-fxjkt9lr3-kyolehts-projects.vercel.app
 Link da planilha: https://docs.google.com/spreadsheets/d/1_Oiezgx5wAH84ecK8QE1D4Oah79pIAV-Y8SglJ8LnEk/edit?gid=0#gid=0
 
 Desenvolvido com 💻 por Rafa.
